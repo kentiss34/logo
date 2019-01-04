@@ -5,4 +5,4 @@
 </a><br />
 <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Logo JeSuiSUnDesDeux</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://gitlab.com/kentiss/logo" property="cc:attributionName" rel="cc:attributionURL">Quentin HESS</a> est mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International</a>.
 <br />Fondé(e) sur une œuvre à <a xmlns:dct="http://purl.org/dc/terms/" href="https://gitlab.com/kentiss/logo" rel="dct:source">https://gitlab.com/kentiss/logo</a>.
-Le vélo est issue de l'oeuvre CC https://www.iconfinder.com/icons/352313/bike_directions_icon
+Le vélo est issu de l'oeuvre CC BY-SA 3.0 : https://www.iconfinder.com/icons/352313/bike_directions_icon
